@@ -4,7 +4,7 @@ const Discord = require("discord.js");
 const client = new Discord.Client();
 
 prefix:
- client.login("")
+ client.login("token")
 module.exports = {
     config: {
         name: "play",
