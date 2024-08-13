@@ -11,7 +11,7 @@ module.exports = {
         description: "Joue une musique/playlist ou cherche en une via youtube",
         usage: "<input>",
         category: "music",
-        accecabebly: "Member",
+        accesibility: "Member",
         aliases: ["p", "pplay"]
     },
     run: async (bot, message, args) => {
